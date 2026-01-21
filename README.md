@@ -2,4 +2,4 @@
 
 Basic HTML recipe webpage built for The Odin Project.
 
-The recipes contained in this page are AI generated.
+Note: the recipes contained in this page are AI generated.
